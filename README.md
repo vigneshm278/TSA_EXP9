@@ -91,7 +91,8 @@ arima_model(data, 'Sales_Amount', order=(5,1,5))
 ```
 
 ### OUTPUT:
-<img width="1041" height="611" alt="image" src="https://github.com/user-attachments/assets/c75e58ec-aeab-4baf-b747-34ea3b17ff8f" />
+<img width="1039" height="670" alt="image" src="https://github.com/user-attachments/assets/03fe752d-e0b3-4d10-9bf3-2164d54228b6" />
+
 
 
 
